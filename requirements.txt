@@ -1,7 +1,4 @@
 click
-dash-auth
-dash-bootstrap-components<1
-dash>=2
 dtreeviz>=1.3
 flask_simplelogin
 graphviz>=0.18.2
